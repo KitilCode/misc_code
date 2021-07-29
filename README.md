@@ -7,9 +7,9 @@
       <li> roman_numerals.py </li>
       <li> code converts digit to roman numeral string </li>
     </ul>
-  </ol>
-</p>
-<p>
-  Additionaly I was able to work on <a href= "http://optioning.glitch.me/"> Walnut Hills HS Optioning website </a>, 
-  however no longer have the access to the code 
+    <li> <a href= "http://optioning.glitch.me/"> Walnut Hills HS Optioning website </a> </li>
+    <ul>
+      <li> no longer have acess to code</li>
+    </ul>
+  </ol
 </p>
