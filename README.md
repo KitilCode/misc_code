@@ -10,6 +10,6 @@
   </ol>
 </p>
 <p>
-  Additionaly I was able to work on <a href= "http://optioning.glitch.me/"> Walnut Hills HS Optioning website </a> <br>
-  However no longer have the access to the code 
+  Additionaly I was able to work on <a href= "http://optioning.glitch.me/"> Walnut Hills HS Optioning website </a>, 
+  however no longer have the access to the code 
 </p>
