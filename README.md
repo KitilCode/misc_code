@@ -9,7 +9,7 @@
     </ul>
     <li> <a href= "http://optioning.glitch.me/"> Walnut Hills HS Optioning website </a> </li>
     <ul>
-      <li> no longer have acess to code</li>
+      <li> code can be seen <a href = "https://github.com/Afan19/Optioning.git"> here </a></li>
     </ul>
   </ol
 </p>
